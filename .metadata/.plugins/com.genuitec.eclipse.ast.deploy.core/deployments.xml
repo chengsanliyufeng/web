@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deployments>
+  <deployment context-root="/LoginText" deployment-path="D:/tomcat9/webapps/LoginText" project-name="LoginText" server-id="tomcat8Server" state="DEPLOYED" type="WEB"/>
+  <deployment context-root="/LoginText" deployment-path="D:/myweb/.metadata/.me_tcat7/webapps/LoginText" project-name="LoginText" server-id="myeclipseTomcatServer7" state="DEPLOYED" type="WEB"/>
+</deployments>

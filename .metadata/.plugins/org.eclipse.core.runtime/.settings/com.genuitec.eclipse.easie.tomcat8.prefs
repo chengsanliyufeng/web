@@ -1,0 +1,8 @@
+ENDORSED_DIRS="D\:\\tomcat9/common/endorsed"
+JDK_HOME=D\:\\myeclipse\\binary\\com.sun.java.jdk7.win32.x86_64_1.7.0.u45
+LIBRARY_PATH="D\:\\myeclipse\\binary\\com.sun.java.jdk7.win32.x86_64_1.7.0.u45\\bin;D\:\\tomcat9\\bin"
+SERVER_ENABLEMENT=true
+TOMCAT_BASE=D\:\\tomcat9
+TOMCAT_HOME=D\:\\tomcat9
+TOMCAT_TEMP=D\:\\tomcat9\\temp
+eclipse.preferences.version=1
